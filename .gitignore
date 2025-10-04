@@ -1,0 +1,55 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Icon files
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Build directories
+build/
+cmake-build-*/
+
+# CMake temporary files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Object and binary files
+*.o
+*.obj
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+*.exe
+*.out
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.user
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.plist
+
+# Logs
+*.log
+
+# SFML resources (optional: if you want to keep them in repo, remove these)
+*.ttf
+*.png
+*.jpg
+*.wav
+*.ogg
